@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PokeWildsModApp",
+            "request": "launch",
+            "mainClass": "PokeWildsModApp",
+            "projectName": "pokewildsmodsapp_d34f230"
+        },
+        {
+            "type": "java",
+            "name": "PokeWildsModApp",
+            "request": "launch",
+            "mainClass": "PokeWildsModApp",
+            "projectName": "java_projects_a48b84bf"
+        },
+        {
+            "type": "java",
+            "name": "BattleCalculator",
+            "request": "launch",
+            "mainClass": "BattleCalculator",
+            "projectName": "java_projects_a48b84bf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "JarFileProcessor",
+            "request": "launch",
+            "mainClass": "JarFileProcessor",
+            "projectName": "java_projects_a48b84bf"
+        },
+        {
+            "type": "java",
+            "name": "archivereader",
+            "request": "launch",
+            "mainClass": "archivereader",
+            "projectName": "java_projects_a48b84bf"
+        }
+    ]
+}
